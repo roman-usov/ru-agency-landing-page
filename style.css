@@ -19,7 +19,7 @@ main {
 }
 
 p {
-  line-height: 30px;
+  line-height: 1.5;
   margin-bottom: 2rem;
   font-size: 1.25rem;
 }
@@ -55,18 +55,19 @@ strong {
 }
 
 .indented-heading {
+  font-size: 1.5rem;
   padding: 1rem 2rem;
   width: fit-content;
   border-bottom: 8px solid hsla(45, 100%, 40%, 1);
   background-color: hsl(45, 100%, 50%, 1);
   margin-bottom: 1rem;
   margin-left: -2rem;
-  line-height: 28.8px;
+  line-height: 1.2;
 }
 
 .title {
   font-size: 2rem;
   font-weight: 900;
-  line-height: 38.4px;
+  line-height: 1.2;
   margin-bottom: 3rem;
 }
